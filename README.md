@@ -1,2 +1,4 @@
 # hello-world
-Repository tutorial
+=============
+
+Testing github for android studio play development and muck about
